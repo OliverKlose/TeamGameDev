@@ -14,6 +14,7 @@ namespace SimpleTestGameClient.GameFolder
         Game game;
         private FloatRect Rectangle;
         private Texture texture;
+        Ui.Button testbutton;
         public MainMenue(Game pGame)
         {
             game = pGame;
@@ -26,7 +27,7 @@ namespace SimpleTestGameClient.GameFolder
 
         public void Initialize()
         {
-            Rectangle = new FloatRect(new Vector2f(40f, 200f), new Vector2f(400f, 400f));
+            testbutton = new Ui.Button(game, new FloatRect(new Vector2f(200f,200f), new Vector2f(200f,75f)));
         }
 
         public StateMachine Update(GameTime gameTime)
@@ -37,7 +38,7 @@ namespace SimpleTestGameClient.GameFolder
                 return StateMachine.Options;
 
             }
-            else if (Rectangle.Contains(Mouse.GetPosition().X, Mouse.GetPosition().Y) && Mouse.IsButtonPressed(Mouse.Button.Left))
+            else if (testbutton.getRectangle().Contains(Mouse.GetPosition().X, Mouse.GetPosition().Y) && Mouse.IsButtonPressed(Mouse.Button.Left))
             {
                 Console.WriteLine("Next State reached");
                 return StateMachine.Options;
@@ -47,7 +48,7 @@ namespace SimpleTestGameClient.GameFolder
 
         public void Draw(GameTime gameTime)
         {
-
+            testbutton.Draw(gameTime);
         }
     }
 }

@@ -17,3 +17,24 @@ C:\Users\olive\Documents\Visual Studio 2015\Projects\SimpleTestGameClient\Simple
 C:\Users\olive\Documents\Visual Studio 2015\Projects\SimpleTestGameClient\SimpleTestGameClient\obj\Debug\SimpleTestGameClient.exe
 C:\Users\olive\Documents\Visual Studio 2015\Projects\SimpleTestGameClient\SimpleTestGameClient\obj\Debug\SimpleTestGameClient.pdb
 C:\Users\olive\Documents\Visual Studio 2015\Projects\SimpleTestGameClient\SimpleTestGameClient\obj\Debug\SimpleTestGameClient.csprojResolveAssemblyReference.cache
+D:\OneDrive\Studium\Module\Programmierung 2\Projekt\SimpleTestGameClient\SimpleTestGameClient\bin\Debug\csfml-audio-2.dll
+D:\OneDrive\Studium\Module\Programmierung 2\Projekt\SimpleTestGameClient\SimpleTestGameClient\bin\Debug\csfml-graphics-2.dll
+D:\OneDrive\Studium\Module\Programmierung 2\Projekt\SimpleTestGameClient\SimpleTestGameClient\bin\Debug\csfml-system-2.dll
+D:\OneDrive\Studium\Module\Programmierung 2\Projekt\SimpleTestGameClient\SimpleTestGameClient\bin\Debug\csfml-window-2.dll
+D:\OneDrive\Studium\Module\Programmierung 2\Projekt\SimpleTestGameClient\SimpleTestGameClient\bin\Debug\libsndfile-1.dll
+D:\OneDrive\Studium\Module\Programmierung 2\Projekt\SimpleTestGameClient\SimpleTestGameClient\bin\Debug\openal32.dll
+D:\OneDrive\Studium\Module\Programmierung 2\Projekt\SimpleTestGameClient\SimpleTestGameClient\bin\Debug\OpenTK.Compatibility.dll
+D:\OneDrive\Studium\Module\Programmierung 2\Projekt\SimpleTestGameClient\SimpleTestGameClient\bin\Debug\OpenTK.dll
+D:\OneDrive\Studium\Module\Programmierung 2\Projekt\SimpleTestGameClient\SimpleTestGameClient\bin\Debug\Goldfather.ttf
+D:\OneDrive\Studium\Module\Programmierung 2\Projekt\SimpleTestGameClient\SimpleTestGameClient\bin\Debug\SimpleTestGameClient.exe.config
+D:\OneDrive\Studium\Module\Programmierung 2\Projekt\SimpleTestGameClient\SimpleTestGameClient\bin\Debug\SimpleTestGameClient.exe
+D:\OneDrive\Studium\Module\Programmierung 2\Projekt\SimpleTestGameClient\SimpleTestGameClient\bin\Debug\SimpleTestGameClient.pdb
+D:\OneDrive\Studium\Module\Programmierung 2\Projekt\SimpleTestGameClient\SimpleTestGameClient\obj\Debug\SimpleTestGameClient.exe
+D:\OneDrive\Studium\Module\Programmierung 2\Projekt\SimpleTestGameClient\SimpleTestGameClient\obj\Debug\SimpleTestGameClient.pdb
+D:\OneDrive\Studium\Module\Programmierung 2\Projekt\SimpleTestGameClient\SimpleTestGameClient\bin\Debug\Content\UI\Button\Button_Raw.png
+C:\Users\bogch\Desktop\Neuer Ordner (2)\SimpleTestGameClient\SimpleTestGameClient\bin\Debug\SimpleTestGameClient.exe.config
+C:\Users\bogch\Desktop\Neuer Ordner (2)\SimpleTestGameClient\SimpleTestGameClient\obj\Debug\SimpleTestGameClient.exe
+C:\Users\bogch\Desktop\Neuer Ordner (2)\SimpleTestGameClient\SimpleTestGameClient\obj\Debug\SimpleTestGameClient.pdb
+C:\Users\bogch\OneDrive\Documents\TeamGameDev\SimpleTestGameClient\SimpleTestGameClient\bin\Debug\SimpleTestGameClient.exe.config
+C:\Users\bogch\OneDrive\Documents\TeamGameDev\SimpleTestGameClient\SimpleTestGameClient\obj\Debug\SimpleTestGameClient.exe
+C:\Users\bogch\OneDrive\Documents\TeamGameDev\SimpleTestGameClient\SimpleTestGameClient\obj\Debug\SimpleTestGameClient.pdb
